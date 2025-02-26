@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Sampath Katari 👋
 
-<!--
-**sampathkatari/sampathkatari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=sampathkatari&label=Profile%20views)
 
-Here are some ideas to get you started:
+## Reach me here:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sampathkatari-blue)](https://www.linkedin.com/in/sampath-katari-b1a85839/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sampathkatari?style=social)](https://twitter.com/sampathkatari)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a **Full-Stack Developer**, **Consultant**, and **Entrepreneur**, passionate about building scalable solutions using **Node.js, React, React Native, and Flutter**
+
+## 🔥 Tech Stack
+- **Frontend**: React.js
+- **Mobile**: React Native, Flutter
+- **Backend**: Node.js, Express, Nest.js, Next.js, Java, Spring Boot
+- **Databases**: PostgreSQL, MongoDB, Firebase
+- **DevOps**: Docker, AWS, Nginx, CI/CD
+
+## 📊 My Stats
+### Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sampathkatari&hide=html,css,blade&locale=en&layout=compact&theme=github_dark)
+
+
+### GitHub Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sampathkatari&theme=github_dark)
